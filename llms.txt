@@ -1,0 +1,51 @@
+# Nivelul0 — GEO Agency
+
+> Nivelul0 este agenția specializată în GEO (Generative Engine Optimization) — optimizarea vizibilității brandurilor în motoarele de căutare bazate pe AI: ChatGPT, Perplexity, Gemini și Google AI Overviews. Operăm exclusiv în România.
+
+## Despre noi / About
+
+Nivelul0 ajută companiile românești să devină citate și recomandate de motoarele de căutare AI. Spre deosebire de SEO clasic (Google), GEO optimizează pentru modul în care sistemele AI extrag, sintetizează și citează informații.
+
+Nivelul0 (English: Level Zero) is a Romanian agency specializing in GEO — making brands visible and citable in AI-powered search: ChatGPT, Perplexity, Gemini, and Google AI Overviews.
+
+## Servicii / Services
+
+### Pachet A — Audit GEO (1.500–3.000 EUR, one-off)
+
+Audit complet GEO pe 5 dimensiuni:
+- AI Citability Score (0–100): probabilitatea ca ChatGPT, Perplexity, Gemini să citeze conținutul
+- Technical GEO: crawlabilitate AI (GPTBot, PerplexityBot, ClaudeBot), robots.txt, llms.txt, sitemap
+- Content Quality: E-E-A-T signals, readability, depth, topical authority
+- Schema Markup: JSON-LD Organization, Service, FAQ, Review, sameAs entity linking
+- Platform Readiness: Google AI Overviews, ChatGPT web search, Perplexity, Gemini
+
+Livrabil: Raport PDF client-ready (7+ pagini) cu scor compozit, grafice, plan de acțiune prioritizat.
+
+### Pachet B — Retainer GEO Lunar (800–1.500 EUR/lună, minim 3 luni)
+
+- Tot ce include Pachet A
+- Implementare recomandări GEO
+- Monitorizare și raportare lunară
+- Iterație conținut + schema + llms.txt
+- Suport email prioritar
+
+Garanție: +12 puncte GEO scor sau refacem gratuit.
+
+## Scor propriul site / Our own GEO score
+
+Site: https://ava1502.github.io/nivelul0/
+Scor GEO: 83/100 (Good)
+Auditat: 2026-06-29
+
+Comparație: Planable.io (SaaS fondat în RO) = 57/100 (Moderate) fără optimizare GEO dedicată.
+
+## Contact
+
+Formular contact: https://ava1502.github.io/nivelul0/#contact
+Geografie: România (RO-only în prezent)
+Timp răspuns: maxim 48h în zilele lucrătoare
+
+## Conținut disponibil / Available content
+
+- [Landing page](https://ava1502.github.io/nivelul0/): prezentare servicii, pachete, scor demo
+- [Sitemap](https://ava1502.github.io/nivelul0/sitemap.xml)
