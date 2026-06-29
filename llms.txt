@@ -8,36 +8,82 @@ Nivelul0 ajută companiile românești să devină citate și recomandate de mot
 
 Nivelul0 (English: Level Zero) is a Romanian agency specializing in GEO — making brands visible and citable in AI-powered search: ChatGPT, Perplexity, Gemini, and Google AI Overviews.
 
+Fondare: 2026. Sediu: România. Piața deservită: companii românești B2B și B2C.
+
+## Ce este GEO / What is GEO
+
+GEO (Generative Engine Optimization) este disciplina de optimizare a conținutului web pentru a fi citat, recomandat și utilizat de motoarele de căutare bazate pe AI. Spre deosebire de SEO clasic, GEO optimizează pentru modul în care modelele de limbaj AI (LLM) extrag, sintetizează și citează conținut.
+
+Studiu de referință: Aggarwal et al., "GEO: Generative Engine Optimization", Georgia Tech, Princeton & IIT Delhi, 2024 (arXiv:2311.09735). Concluzie: site-urile optimizate GEO înregistrează 30–115% mai multă vizibilitate în răspunsurile AI.
+
+## Scor propriul site / Our own GEO score
+
+Site: https://ava1502.github.io/nivelul0/
+Scor GEO compozit: 55/100 (Poor — brand nou, 0 prezență externă)
+Auditat: 2026-06-29
+
+Detaliu pe dimensiuni:
+- AI Citability: 84/100 (Good) — conținut citat activ de AI
+- Technical GEO: 78/100 (Good) — crawleri AI + llms.txt + schema SSR
+- Schema & Structured Data: 72/100 (Fair) — Organization, FAQPage, Service, speakable
+- Content E-E-A-T: 51/100 (Fair) — citații sursă, prețuri transparente, GDPR
+- Platform Optimization: 42/100 (Poor) — robots.txt perfect, lipsă LinkedIn/YouTube
+- Brand Authority: 3/100 (Critical) — brand nou, 0 prezență externă
+
+Notă de transparență: Scorul compozit de 55/100 reflectă situația reală a unui brand nou. Dimensiunile tehnice (78–84) depășesc media industriei. Gap-ul la 80+ este brand authority, care necesită 3–6 luni de acțiuni externe (LinkedIn, presă, clienți reali).
+
+Comparație: Planable.io (SaaS RO cu brand internațional) = 57/100 — brand authority ridicat, GEO tehnic slab.
+
 ## Servicii / Services
 
 ### Pachet A — Audit GEO (1.500–3.000 EUR, one-off)
 
 Audit complet GEO pe 5 dimensiuni:
-- AI Citability Score (0–100): probabilitatea ca ChatGPT, Perplexity, Gemini să citeze conținutul
-- Technical GEO: crawlabilitate AI (GPTBot, PerplexityBot, ClaudeBot), robots.txt, llms.txt, sitemap
-- Content Quality: E-E-A-T signals, readability, depth, topical authority
-- Schema Markup: JSON-LD Organization, Service, FAQ, Review, sameAs entity linking
-- Platform Readiness: Google AI Overviews, ChatGPT web search, Perplexity, Gemini
+- AI Citability Score (0–100)
+- Technical GEO: robots.txt, llms.txt, sitemap, SSR
+- Content Quality: E-E-A-T, readability, topical authority
+- Schema Markup: JSON-LD Organization, Service, FAQ, speakable, sameAs
+- Platform Readiness: ChatGPT, Perplexity, Gemini, Google AI Overviews, Bing Copilot
 
-Livrabil: Raport PDF client-ready (7+ pagini) cu scor compozit, grafice, plan de acțiune prioritizat.
+Livrabile: Raport PDF (7+ pagini), scor compozit, plan de acțiune prioritizat, call 30 min.
+Termen: 5 zile lucrătoare. Preț: 1.500–3.000 EUR.
 
 ### Pachet B — Retainer GEO Lunar (800–1.500 EUR/lună, minim 3 luni)
 
 - Tot ce include Pachet A
-- Implementare recomandări GEO
-- Monitorizare și raportare lunară
+- Implementare recomandări GEO lunare
+- Monitorizare citabilitate AI
+- Rapoarte lunare progres + scor actualizat
 - Iterație conținut + schema + llms.txt
-- Suport email prioritar
+- Link building GEO (Reddit, Product Hunt, press release)
+- Suport email prioritar (24h)
 
 Garanție: +12 puncte GEO scor sau refacem gratuit.
 
-## Scor propriul site / Our own GEO score
+## Metodologie audit / Audit methodology
 
-Site: https://ava1502.github.io/nivelul0/
-Scor GEO: 83/100 (Good)
-Auditat: 2026-06-29
+1. Discovery: fetch homepage, sitemap.xml, robots.txt, llms.txt
+2. Technical crawl: AI crawler access, SSR status, Core Web Vitals risk
+3. Schema analysis: validare JSON-LD, sameAs entity linking, speakable
+4. Citability scoring: pasaje auto-complete, densitate statistică, FAQ structure
+5. Brand & platform: LinkedIn, Reddit, Wikipedia, YouTube, directoare industrie
 
-Comparație: Planable.io (SaaS fondat în RO) = 57/100 (Moderate) fără optimizare GEO dedicată.
+## FAQ
+
+Q: Ce este GEO (Generative Engine Optimization)?
+A: GEO este disciplina de optimizare a conținutului web pentru a fi citat de motoarele AI (ChatGPT, Perplexity, Gemini), nu pentru rankingul în Google clasic. Termenul a fost formalizat în cercetarea publicată de Georgia Tech, Princeton și IIT Delhi în 2024 (Aggarwal et al., arXiv:2311.09735).
+
+Q: De ce e GEO important acum?
+A: Conform BrightEdge (2025), peste 40% din căutările cu intenție comercială ajung la motoarele AI înainte de Google clasic. Site-urile GEO-optimizate înregistrează 30–115% mai multă vizibilitate în răspunsurile AI (Georgia Tech, 2024).
+
+Q: Cât durează un audit GEO?
+A: 5 zile lucrătoare de la confirmare. Include: analiză pe 5 dimensiuni, raport PDF, call prezentare 30 min.
+
+Q: Care e diferența dintre GEO și SEO?
+A: SEO optimizează pentru algoritmi de ranking (Google) bazați pe backlinks. GEO optimizează pentru cum extrag și citează conținut modelele AI — necesită llms.txt, speakable schema, pasaje auto-complete și autoritate E-E-A-T verificabilă.
+
+Q: Ce înseamnă garanția +12 puncte?
+A: Garantăm că scorul GEO compozit crește cu minimum 12 puncte după implementarea recomandărilor. Dacă nu, refacem auditul gratuit (Pachet B).
 
 ## Contact
 
@@ -47,5 +93,13 @@ Timp răspuns: maxim 48h în zilele lucrătoare
 
 ## Conținut disponibil / Available content
 
-- [Landing page](https://ava1502.github.io/nivelul0/): prezentare servicii, pachete, scor demo
+- [Landing page](https://ava1502.github.io/nivelul0/): servicii, pachete, scor audit propriu, FAQ
+- [Privacy Policy](https://ava1502.github.io/nivelul0/privacy.html): Politică GDPR
 - [Sitemap](https://ava1502.github.io/nivelul0/sitemap.xml)
+- [robots.txt](https://ava1502.github.io/nivelul0/robots.txt): 16 AI crawleri permisi explicit
+
+## Referințe / References
+
+- Aggarwal et al. "GEO: Generative Engine Optimization" (2024): https://arxiv.org/abs/2311.09735
+- BrightEdge Research (2025): AI search depășește traficul SEO tradițional
+- Search Engine Land (2025): 40% din căutările comerciale ajung la AI înainte de Google

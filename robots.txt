@@ -38,4 +38,13 @@ Allow: /
 User-agent: Amazonbot
 Allow: /
 
+User-agent: Anthropic-AI
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
 Sitemap: https://ava1502.github.io/nivelul0/sitemap.xml
