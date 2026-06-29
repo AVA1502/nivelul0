@@ -10,4 +10,10 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://ava1502.github.io/nivelul0/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ava1502.github.io/nivelul0/"/>
   </url>
+  <url>
+    <loc>https://ava1502.github.io/nivelul0/privacy.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
 </urlset>
