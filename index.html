@@ -52,6 +52,7 @@
         "logo": {
           "@type": "ImageObject",
           "url": "https://ava1502.github.io/nivelul0/social-card.png",
+          "contentUrl": "https://ava1502.github.io/nivelul0/social-card.png",
           "width": 1200,
           "height": 630
         },
@@ -60,9 +61,9 @@
         ],
         "contactPoint": {
           "@type": "ContactPoint",
-          "contactType": "sales",
+          "contactType": "customer service",
           "availableLanguage": ["Romanian", "English"],
-          "contactOption": "TollFree",
+          "url": "https://ava1502.github.io/nivelul0/#contact",
           "areaServed": "RO"
         },
         "knowsAbout": [
@@ -126,7 +127,15 @@
         "url": "https://ava1502.github.io/nivelul0/",
         "name": "Nivelul0",
         "publisher": {"@id": "https://ava1502.github.io/nivelul0/#organization"},
-        "inLanguage": ["ro", "en"]
+        "inLanguage": ["ro", "en"],
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://ava1502.github.io/nivelul0/#contact?q={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
       },
       {
         "@type": "WebPage",
@@ -138,10 +147,20 @@
         "about": {"@id": "https://ava1502.github.io/nivelul0/#organization"},
         "mainEntityOfPage": "https://ava1502.github.io/nivelul0/",
         "description": "Agenție GEO specializată în optimizarea vizibilității brandului în motoarele de căutare bazate pe AI.",
+        "datePublished": "2026-06-29",
         "dateModified": "2026-06-29",
         "speakable": {
           "@type": "SpeakableSpecification",
-          "cssSelector": ["h1", "h2", ".speakable", ".score-compare"]
+          "cssSelector": ["h1", "h2", ".speakable", ".score-compare", "#faq", "#metodologie"]
+        },
+        "breadcrumb": {
+          "@type": "BreadcrumbList",
+          "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Nivelul0 GEO Agency",
+            "item": "https://ava1502.github.io/nivelul0/"
+          }]
         }
       },
       {
@@ -668,25 +687,26 @@
     <div class="score-label ro-content">Scorul nostru GEO (dogfood — testăm propriul produs pe noi)</div>
     <div class="score-label en-content">Our own GEO Score (dogfood — we test our product on ourselves)</div>
     <div class="score-display">
-      <div class="score-number">55</div>
+      <div class="score-number">46</div>
       <div class="score-details">
-        <div class="score-grade" style="color: #f59e0b;">▲ Poor → Fair</div>
-        <div class="score-context ro-content">Nivelul0 — scor GEO compozit real<br>Auditat 29 iunie 2026</div>
-        <div class="score-context en-content">Nivelul0 — real composite GEO score<br>Audited June 29, 2026</div>
+        <div class="score-grade" style="color: #f59e0b;">Poor (brand nou, GEO tehnic solid)</div>
+        <div class="score-context ro-content">Nivelul0 — scor GEO compozit real<br>Audit riguros 29 iunie 2026 (5 agenți specializați)</div>
+        <div class="score-context en-content">Nivelul0 — real composite GEO score<br>Rigorous audit June 29, 2026 (5 specialized agents)</div>
       </div>
     </div>
     <p class="score-example ro-content speakable">
-      Comparație: <strong>Planable.io = 57/100</strong> — brand internațional puternic, GEO tehnic slab. <strong>Nivelul0 = 55/100</strong> — brand nou, GEO tehnic excelent (Citability 84/100, Technical 78/100). Gap-ul la 80+ este exclusiv brand authority — care se construiește în 3–6 luni.
+      Comparație: <strong>Planable.io = 57/100</strong> — brand internațional puternic, GEO tehnic slab. <strong>Nivelul0 = 46/100</strong> — brand nou (3/100 Brand Authority), GEO tehnic solid (Citability 72/100, Technical 72/100). Gap-ul la 80+ este exclusiv brand authority — care se construiește în 3–6 luni prin LinkedIn, presă și conținut indexabil.
     </p>
     <p class="score-example en-content speakable">
-      Comparison: <strong>Planable.io = 57/100</strong> — strong international brand, weak GEO technical. <strong>Nivelul0 = 55/100</strong> — new brand, excellent GEO technical (Citability 84/100, Technical 78/100). Gap to 80+ is exclusively brand authority — built over 3–6 months.
+      Comparison: <strong>Planable.io = 57/100</strong> — strong international brand, weak GEO technical. <strong>Nivelul0 = 46/100</strong> — new brand (3/100 Brand Authority), solid GEO technical (Citability 72/100, Technical 72/100). Gap to 80+ is exclusively brand authority — built over 3–6 months via LinkedIn, press, and indexable content.
     </p>
     <div style="display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin-top:16px; font-size:12px; font-family: monospace;">
-      <span style="background:#e0f2fe;color:#0369a1;padding:4px 10px;border-radius:8px;">Citability 84/100 ✓</span>
-      <span style="background:#e0f2fe;color:#0369a1;padding:4px 10px;border-radius:8px;">Technical 78/100 ✓</span>
-      <span style="background:#fef3c7;color:#92400e;padding:4px 10px;border-radius:8px;">Schema 72/100</span>
-      <span style="background:#fef3c7;color:#92400e;padding:4px 10px;border-radius:8px;">E-E-A-T 51/100</span>
+      <span style="background:#e0f2fe;color:#0369a1;padding:4px 10px;border-radius:8px;">Citability 72/100 ✓</span>
+      <span style="background:#e0f2fe;color:#0369a1;padding:4px 10px;border-radius:8px;">Technical 72/100 ✓</span>
+      <span style="background:#fef3c7;color:#92400e;padding:4px 10px;border-radius:8px;">Schema 68/100</span>
+      <span style="background:#fef3c7;color:#92400e;padding:4px 10px;border-radius:8px;">E-E-A-T 46/100</span>
       <span style="background:#fee2e2;color:#991b1b;padding:4px 10px;border-radius:8px;">Brand Authority 3/100 ← gap to 80</span>
+      <span style="background:#fee2e2;color:#991b1b;padding:4px 10px;border-radius:8px;">Platform 6/100 ← gap to 80</span>
     </div>
   </div>
 
@@ -873,10 +893,10 @@
           <div class="detail en-content">Strong brand, weak GEO technical.<br>Moderate — limited AI visibility</div>
         </div>
         <div class="score-card" style="border-color: #f59e0b;">
-          <div class="big" style="color: #f59e0b;">55</div>
+          <div class="big" style="color: #f59e0b;">46</div>
           <div class="label">Nivelul0</div>
-          <div class="detail ro-content">Brand NOU, GEO tehnic excelent.<br>Citability 84 • Technical 78</div>
-          <div class="detail en-content">NEW brand, excellent GEO technical.<br>Citability 84 • Technical 78</div>
+          <div class="detail ro-content">Brand NOU, GEO tehnic solid.<br>Citability 72 • Technical 72</div>
+          <div class="detail en-content">NEW brand, solid GEO technical.<br>Citability 72 • Technical 72</div>
         </div>
       </div>
     </section>
@@ -1058,6 +1078,7 @@
   {
     "@context": "https://schema.org",
     "@type": "HowTo",
+    "@id": "https://ava1502.github.io/nivelul0/#how-to-audit",
     "name": "Cum funcționează un Audit GEO Nivelul0",
     "description": "Procesul complet de audit GEO în 4 pași: de la analiza citabilității AI până la raportul PDF client-ready cu plan de acțiune prioritizat.",
     "totalTime": "P5D",
@@ -1110,6 +1131,13 @@
     "@context": "https://schema.org",
     "@type": "TechArticle",
     "@id": "https://ava1502.github.io/nivelul0/#methodology-article",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://ava1502.github.io/nivelul0/social-card.png",
+      "contentUrl": "https://ava1502.github.io/nivelul0/social-card.png",
+      "width": 1200,
+      "height": 630
+    },
     "headline": "Metodologia de scoring GEO Nivelul0: 5 dimensiuni, formule și ponderi",
     "description": "Explicație detaliată a modului în care Nivelul0 calculează scorul GEO compozit: 5 dimensiuni cu ponderi derivate din cercetarea Georgia Tech/Princeton/IIT Delhi 2024, formule, praguri și exemple.",
     "url": "https://ava1502.github.io/nivelul0/#metodologie",
@@ -1222,24 +1250,25 @@
         <div style="background: white; border: 2px solid var(--accent); border-radius: 16px; padding: 28px;">
           <div style="font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--accent); margin-bottom: 12px;" class="ro-content">Versiunea 2 — Post-optimizare</div>
           <div style="font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--accent); margin-bottom: 12px;" class="en-content">Version 2 — Post-optimization</div>
-          <div style="font-size: 48px; font-weight: 800; color: #f59e0b; line-height: 1;">55</div>
-          <div style="font-size: 13px; color: var(--text-muted); margin-top: 4px;" class="ro-content">scor GEO real (audit 29 iun. 2026)</div>
-          <div style="font-size: 13px; color: var(--text-muted); margin-top: 4px;" class="en-content">real GEO score (audit 29 Jun 2026)</div>
+          <div style="font-size: 48px; font-weight: 800; color: #f59e0b; line-height: 1;">46</div>
+          <div style="font-size: 13px; color: var(--text-muted); margin-top: 4px;" class="ro-content">scor GEO real — audit riguros 29 iun. 2026</div>
+          <div style="font-size: 13px; color: var(--text-muted); margin-top: 4px;" class="en-content">real GEO score — rigorous audit Jun 29, 2026</div>
           <ul style="margin-top: 16px; font-size: 14px; color: var(--text-muted); list-style: none; display: flex; flex-direction: column; gap: 8px;">
-            <li>✅ AI Citability: <strong>84/100</strong></li>
-            <li>✅ Technical GEO: <strong>78/100</strong></li>
-            <li>✅ Schema: <strong>72/100</strong> (16 tipuri JSON-LD)</li>
+            <li>✅ AI Citability: <strong>72/100</strong></li>
+            <li>✅ Technical GEO: <strong>72/100</strong></li>
+            <li>✅ Schema: <strong>68/100</strong> (22+ tipuri JSON-LD)</li>
             <li>✅ <span class="ro-content">16 AI crawleri permisi explicit</span><span class="en-content">16 AI crawlers explicitly permitted</span></li>
+            <li>⚠️ E-E-A-T: <strong>46/100</strong> <span class="ro-content">(fără fondator nominal)</span><span class="en-content">(no named founder)</span></li>
             <li>⚠️ Brand Authority: <strong>3/100</strong> <span class="ro-content">(brand nou)</span><span class="en-content">(new brand)</span></li>
           </ul>
         </div>
       </div>
 
       <div style="max-width: 820px; margin: 24px auto 0; padding: 24px; background: white; border: 1px solid var(--border); border-radius: 12px;">
-        <h3 style="font-size: 16px; margin-bottom: 12px;" class="ro-content">Ce ne limitează la 55 (și ce nu e în controlul nostru)</h3>
-        <h3 style="font-size: 16px; margin-bottom: 12px;" class="en-content">What limits us to 55 (and what we can't control)</h3>
-        <p class="speakable ro-content" style="font-size: 14px; color: var(--text-muted);">Brand Authority (pondere 20%) stă la 3/100 din un singur motiv: suntem un brand lansat în 2026, fără mențiuni externe verificabile. LinkedIn de companie, articole de presă, listări în directoare AI — toate necesită timp și acțiuni externe. Dimensiunile tehnice controlabile (Citability, Technical, Schema) sunt la 72–84/100. La 3-6 luni de la lansare, cu LinkedIn + 1 articol de presă + indexare Google, proiecția noastră este 68–75/100.</p>
-        <p class="speakable en-content" style="font-size: 14px; color: var(--text-muted);">Brand Authority (20% weight) sits at 3/100 for one reason: we are a brand launched in 2026 with no verifiable external mentions. LinkedIn company page, press articles, AI directory listings — these all require time and external actions. Our controllable technical dimensions (Citability, Technical, Schema) are at 72–84/100. At 3-6 months post-launch with LinkedIn + 1 press article + Google indexing, our projection is 68–75/100.</p>
+        <h3 style="font-size: 16px; margin-bottom: 12px;" class="ro-content">Ce ne limitează la 46 (și ce nu e în controlul nostru)</h3>
+        <h3 style="font-size: 16px; margin-bottom: 12px;" class="en-content">What limits us to 46 (and what we can't control)</h3>
+        <p class="speakable ro-content" style="font-size: 14px; color: var(--text-muted);">Scorul 46/100 reflectă onest stadiul unui brand lansat în 2026. Brand Authority (pondere 20%) stă la 3/100: zero mențiuni externe verificabile pe LinkedIn, Wikipedia, YouTube sau presă. E-E-A-T (pondere 20%) stă la 46/100: niciun fondator nominalizat, niciun client citat, nicio recenzie externă. Dimensiunile tehnice controlabile — Citability (72), Technical (72), Schema (68) — sunt solide. Proiecție cu acțiuni owner: LinkedIn + fondator nominal + 1 articol presă → 62–68/100 în 3 luni; 80+ în 12 luni cu prezență activă.</p>
+        <p class="speakable en-content" style="font-size: 14px; color: var(--text-muted);">The 46/100 score honestly reflects the state of a brand launched in 2026. Brand Authority (20% weight) sits at 3/100: zero verifiable external mentions on LinkedIn, Wikipedia, YouTube, or press. E-E-A-T (20% weight) sits at 46/100: no named founder, no cited clients, no external reviews. Controllable technical dimensions — Citability (72), Technical (72), Schema (68) — are solid. With owner actions: LinkedIn + named founder + 1 press article → 62–68/100 in 3 months; 80+ in 12 months with active presence.</p>
       </div>
     </section>
   </div>

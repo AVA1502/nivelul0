@@ -19,18 +19,20 @@ Studiu de referință: Aggarwal et al., "GEO: Generative Engine Optimization", G
 ## Scor propriul site / Our own GEO score
 
 Site: https://ava1502.github.io/nivelul0/
-Scor GEO compozit: 55/100 (Poor — brand nou, 0 prezență externă)
-Auditat: 2026-06-29
+Scor GEO compozit: 46/100 (Poor — brand nou, 0 prezență externă)
+Auditat: 2026-06-29 (audit riguros cu 5 agenți specializați)
 
 Detaliu pe dimensiuni:
-- AI Citability: 84/100 (Good) — conținut citat activ de AI
-- Technical GEO: 78/100 (Good) — crawleri AI + llms.txt + schema SSR
-- Schema & Structured Data: 72/100 (Fair) — Organization, FAQPage, Service, speakable
-- Content E-E-A-T: 51/100 (Fair) — citații sursă, prețuri transparente, GDPR
-- Platform Optimization: 42/100 (Poor) — robots.txt perfect, lipsă LinkedIn/YouTube
-- Brand Authority: 3/100 (Critical) — brand nou, 0 prezență externă
+- AI Citability: 72/100 (Fair) — FAQ, metodologie, citații verificabile cu surse
+- Technical GEO: 72/100 (Fair) — crawleri AI expliciti, llms.txt, SSR static
+- Schema & Structured Data: 68/100 (Fair) — Organization, FAQPage, HowTo, TechArticle, speakable
+- Content E-E-A-T: 46/100 (Poor) — fără fondator nominal, fără clienți reali, metodologie transparentă
+- Platform Optimization: 6/100 (Critical) — prezență ZERO pe LinkedIn, YouTube, Reddit, presă
+- Brand Authority: 3/100 (Critical) — brand nou, 0 mențiuni externe verificabile
 
-Notă de transparență: Scorul compozit de 55/100 reflectă situația reală a unui brand nou. Dimensiunile tehnice (78–84) depășesc media industriei. Gap-ul la 80+ este brand authority, care necesită 3–6 luni de acțiuni externe (LinkedIn, presă, clienți reali).
+Notă de transparență: Scorul compozit de 46/100 reflectă situația reală a unui brand lansat în 2026. Dimensiunile tehnice (Citability 72, Technical 72, Schema 68) depășesc media pentru un brand de 0 zile. Gap-ul major la 80+ sunt Brand Authority și E-E-A-T, care necesită acțiuni externe: fondator nominal + LinkedIn + presă + clienți reali.
+
+Proiecție: LinkedIn + fondator nominal + 1 articol presă → 62–68/100 în 3 luni; 80+ cu prezență activă la 12 luni.
 
 Comparație: Planable.io (SaaS RO cu brand internațional) = 57/100 — brand authority ridicat, GEO tehnic slab.
 
