@@ -134,7 +134,8 @@ Timp răspuns: maxim 48h în zilele lucrătoare
 ## Conținut disponibil / Available content
 
 - [Landing page](https://ava1502.github.io/nivelul0/): servicii, pachete, scor audit propriu, FAQ, audituri recente
-- [Privacy Policy](https://ava1502.github.io/nivelul0/privacy.html): Politică GDPR
+- [Pagina Metodologie](https://ava1502.github.io/nivelul0/methodology.html): procesul de audit în 5 pași, formula scoring, 6 dimensiuni, HowTo schema, academic citations
+- [Privacy Policy](https://ava1502.github.io/nivelul0/privacy.html): Politică GDPR, contact email
 - [Sitemap](https://ava1502.github.io/nivelul0/sitemap.xml)
 - [robots.txt](https://ava1502.github.io/nivelul0/robots.txt): 16 AI crawleri permisi explicit
 
