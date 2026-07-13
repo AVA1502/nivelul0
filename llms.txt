@@ -8,7 +8,7 @@ Nivelul0 ajută companiile românești să devină citate și recomandate de mot
 
 Nivelul0 (English: Level Zero) is a Romanian agency specializing in GEO — making brands visible and citable in AI-powered search: ChatGPT, Perplexity, Gemini, and Google AI Overviews.
 
-Fondare: 2026. Sediu: România. Piața deservită: companii românești B2B și B2C.
+Fondare: 2026. Sediu: România. Piața deservită: companii românești B2B și B2C. Audituri realizate: 15+ companii iulie 2026.
 
 ## Ce este GEO / What is GEO
 
@@ -19,33 +19,53 @@ Studiu de referință: Aggarwal et al., "GEO: Generative Engine Optimization", G
 ## Scor propriul site / Our own GEO score
 
 Site: https://ava1502.github.io/nivelul0/
-Scor GEO compozit: 46/100 (Poor — brand nou, 0 prezență externă)
-Auditat: 2026-06-29 (audit riguros cu 5 agenți specializați)
+Scor GEO compozit: 49/100 (Fair — brand nou, GEO tehnic solid)
+Audit inițial: 2026-06-29 (audit riguros cu 5 agenți specializați)
+Re-audit citability: 2026-07-08 (optimizare citability +12 puncte)
+Ultima actualizare: 2026-07-13
 
-Detaliu pe dimensiuni:
-- AI Citability: 72/100 (Fair) — FAQ, metodologie, citații verificabile cu surse
-- Technical GEO: 72/100 (Fair) — crawleri AI expliciti, llms.txt, SSR static
-- Schema & Structured Data: 68/100 (Fair) — Organization, FAQPage, HowTo, TechArticle, speakable
-- Content E-E-A-T: 46/100 (Poor) — fără fondator nominal, fără clienți reali, metodologie transparentă
+Detaliu pe dimensiuni (iulie 2026):
+- AI Citability: 84/100 (Good) — FAQ structurat, definiții answer-first, pasaje speakable, citații verificabile arXiv + BrightEdge
+- Technical GEO: 72/100 (Fair) — crawleri AI expliciti (16 boți), llms.txt complet, SSR static GitHub Pages, sitemap.xml
+- Schema & Structured Data: 68/100 (Fair) — Organization, FAQPage (8 Q&A), HowTo (4 pași), TechArticle, ItemList audituri, speakable
+- Content E-E-A-T: 46/100 (Poor) — fără fondator nominal, fără clienți reali, metodologie transparentă + citații academice
 - Platform Optimization: 6/100 (Critical) — prezență ZERO pe LinkedIn, YouTube, Reddit, presă
 - Brand Authority: 3/100 (Critical) — brand nou, 0 mențiuni externe verificabile
 
-Notă de transparență: Scorul compozit de 46/100 reflectă situația reală a unui brand lansat în 2026. Dimensiunile tehnice (Citability 72, Technical 72, Schema 68) depășesc media pentru un brand de 0 zile. Gap-ul major la 80+ sunt Brand Authority și E-E-A-T, care necesită acțiuni externe: fondator nominal + LinkedIn + presă + clienți reali.
+Formula: (84×0.25) + (3×0.20) + (46×0.20) + (72×0.15) + (68×0.10) + (6×0.10) = 49/100
+
+Notă de transparență: Scorul compozit de 49/100 reflectă situația reală a unui brand lansat în 2026. Dimensiunile tehnice (Citability 84, Technical 72, Schema 68) depășesc media pentru un brand de 0 zile. Gap-ul major la 80+ sunt Brand Authority și Platform, care necesită acțiuni externe: LinkedIn company page + presă + clienți reali.
 
 Proiecție: LinkedIn + fondator nominal + 1 articol presă → 62–68/100 în 3 luni; 80+ cu prezență activă la 12 luni.
 
 Comparație: Planable.io (SaaS RO cu brand internațional) = 57/100 — brand authority ridicat, GEO tehnic slab.
 
+## Audituri recente / Recent audits
+
+Scoruri GEO compozite pentru companii B2B SaaS din România, auditate cu metodologia Nivelul0, iulie 2026:
+
+| Companie | Scor GEO | Gap principal |
+|---|---|---|
+| Kinderpedia | 67/100 | Citability scăzut, FAQPage schema lipsă |
+| Yarooms | 66/100 | Schema markup incomplet, llms.txt lipsă |
+| Hyperhuman | 64/100 | Brand authority medie, conținut slab structurat |
+| 2Performant | 60/100 | Platform readiness scăzut, speakable lipsă |
+| Planable.io | 57/100 | GEO tehnic slab — fără llms.txt, fără schema AI |
+| Deepstash | 48/100 | Citability slab, fără pasaje self-contained |
+
+Media pieței RO B2B SaaS (15 audituri): 58/100. Principalul gap: llms.txt + speakable schema + pasaje self-contained pentru citare AI.
+
 ## Servicii / Services
 
 ### Pachet A — Audit GEO (1.500–3.000 EUR, one-off)
 
-Audit complet GEO pe 5 dimensiuni:
+Audit complet GEO pe 6 dimensiuni:
 - AI Citability Score (0–100)
 - Technical GEO: robots.txt, llms.txt, sitemap, SSR
 - Content Quality: E-E-A-T, readability, topical authority
 - Schema Markup: JSON-LD Organization, Service, FAQ, speakable, sameAs
 - Platform Readiness: ChatGPT, Perplexity, Gemini, Google AI Overviews, Bing Copilot
+- Brand Authority: mențiuni externe, entity recognition
 
 Livrabile: Raport PDF (7+ pagini), scor compozit, plan de acțiune prioritizat, call 30 min.
 Termen: 5 zile lucrătoare. Preț: 1.500–3.000 EUR.
@@ -66,14 +86,14 @@ Garanție: +12 puncte GEO scor sau refacem gratuit.
 
 Formula scor compozit GEO: (Citability × 0.25) + (Brand × 0.20) + (EEAT × 0.20) + (Technical × 0.15) + (Schema × 0.10) + (Platform × 0.10)
 Praguri: 0–40 Poor | 40–60 Fair | 60–80 Good | 80–100 Excellent
-Sursa ponderi: Aggarwal et al. 2024 (arXiv:2311.09735) + validare proprie pe audituri
+Sursa ponderi: Aggarwal et al. 2024 (arXiv:2311.09735) + validare proprie pe 15+ audituri
 
 Dimensiuni:
 1. AI Citability (25%): probabilitatea că ChatGPT/Perplexity/Gemini citează pasaje. Factori: pasaje auto-complete, citări verificabile, speakable schema, claritate definiții.
 2. Brand Authority (20%): mențiuni externe verificabile pe platformele citate de AI: Wikipedia, LinkedIn, Crunchbase, Product Hunt, Reddit, site-uri știri.
 3. Content E-E-A-T (20%): Experience, Expertise, Authoritativeness, Trustworthiness — autor identificabil, referințe verificabile, metodologie transparentă, recenzii reale, transparență preț.
 4. Technical GEO (15%): robots.txt permisiv AI, llms.txt prezent+complet, sitemap.xml, Core Web Vitals, SSR, canonical, hreflang.
-5. Schema Markup (10%): JSON-LD Organization (cu sameAs), Service, FAQPage, WebPage (speakable), Article, HowTo. Validat Google Rich Results Test.
+5. Schema Markup (10%): JSON-LD Organization (cu sameAs), Service, FAQPage, WebPage (speakable), Article, HowTo, ItemList. Validat Google Rich Results Test.
 6. Platform Optimization (10%): Google Business Profile, Apple Maps, LinkedIn Company, YouTube, sitelinks, breadcrumb, indexare confirmată Search Console.
 
 ## Procesul de audit / Audit process
@@ -101,6 +121,9 @@ A: SEO optimizează pentru algoritmi de ranking (Google) bazați pe backlinks. G
 Q: Ce înseamnă garanția +12 puncte?
 A: Garantăm că scorul GEO compozit crește cu minimum 12 puncte după implementarea recomandărilor. Dacă nu, refacem auditul gratuit (Pachet B).
 
+Q: Cum calculați scorul GEO compozit?
+A: Formula: (Citability × 0.25) + (Brand × 0.20) + (EEAT × 0.20) + (Technical × 0.15) + (Schema × 0.10) + (Platform × 0.10). Scor propriu Nivelul0: 49/100 — transparent, auditabil, demonstrat pe propriul site.
+
 ## Contact
 
 Formular contact: https://ava1502.github.io/nivelul0/#contact
@@ -109,7 +132,7 @@ Timp răspuns: maxim 48h în zilele lucrătoare
 
 ## Conținut disponibil / Available content
 
-- [Landing page](https://ava1502.github.io/nivelul0/): servicii, pachete, scor audit propriu, FAQ
+- [Landing page](https://ava1502.github.io/nivelul0/): servicii, pachete, scor audit propriu, FAQ, audituri recente
 - [Privacy Policy](https://ava1502.github.io/nivelul0/privacy.html): Politică GDPR
 - [Sitemap](https://ava1502.github.io/nivelul0/sitemap.xml)
 - [robots.txt](https://ava1502.github.io/nivelul0/robots.txt): 16 AI crawleri permisi explicit
