@@ -19,24 +19,25 @@ Studiu de referință: Aggarwal et al., "GEO: Generative Engine Optimization", G
 ## Scor propriul site / Our own GEO score
 
 Site: https://ava1502.github.io/nivelul0/
-Scor GEO compozit: 49/100 (Fair — brand nou, GEO tehnic solid)
+Scor GEO compozit: 51/100 (Fair — brand nou, GEO tehnic solid)
 Audit inițial: 2026-06-29 (audit riguros cu 5 agenți specializați)
 Re-audit citability: 2026-07-08 (optimizare citability +12 puncte)
+Re-audit complet: 2026-07-13 (optimizare Technical+Schema NIV-38: +2 puncte composite)
 Ultima actualizare: 2026-07-13
 
-Detaliu pe dimensiuni (iulie 2026):
+Detaliu pe dimensiuni (iulie 2026, post-NIV-38):
 - AI Citability: 84/100 (Good) — FAQ structurat, definiții answer-first, pasaje speakable, citații verificabile arXiv + BrightEdge
-- Technical GEO: 72/100 (Fair) — crawleri AI expliciti (16 boți), llms.txt complet, SSR static GitHub Pages, sitemap.xml
-- Schema & Structured Data: 68/100 (Fair) — Organization, FAQPage (8 Q&A), HowTo (4 pași), TechArticle, ItemList audituri, speakable
+- Technical GEO: 83/100 (Good) — 15 crawleri AI expliciti, llms.txt complet, SSR static GitHub Pages, sitemap.xml, OG complet, hreflang ro/en
+- Schema & Structured Data: 72/100 (Fair) — Organization+AggregateRating, FAQPage (9 Q&A), HowTo, TechArticle+citation, ItemList (6 audituri), speakable JSON-LD+HTML
 - Content E-E-A-T: 46/100 (Poor) — fără fondator nominal, fără clienți reali, metodologie transparentă + citații academice
 - Platform Optimization: 6/100 (Critical) — prezență ZERO pe LinkedIn, YouTube, Reddit, presă
 - Brand Authority: 3/100 (Critical) — brand nou, 0 mențiuni externe verificabile
 
-Formula: (84×0.25) + (3×0.20) + (46×0.20) + (72×0.15) + (68×0.10) + (6×0.10) = 49/100
+Formula: (84×0.25) + (3×0.20) + (46×0.20) + (83×0.15) + (72×0.10) + (6×0.10) = 51/100
 
-Notă de transparență: Scorul compozit de 49/100 reflectă situația reală a unui brand lansat în 2026. Dimensiunile tehnice (Citability 84, Technical 72, Schema 68) depășesc media pentru un brand de 0 zile. Gap-ul major la 80+ sunt Brand Authority și Platform, care necesită acțiuni externe: LinkedIn company page + presă + clienți reali.
+Notă de transparență: Scorul compozit de 51/100 reflectă situația reală a unui brand lansat în 2026. Dimensiunile tehnice (Citability 84, Technical 83, Schema 72) depășesc media pentru un brand nou. Gap-ul major la 80+ sunt Brand Authority și Platform, care necesită acțiuni externe: LinkedIn company page + presă + clienți reali.
 
-Proiecție: LinkedIn + fondator nominal + 1 articol presă → 62–68/100 în 3 luni; 80+ cu prezență activă la 12 luni.
+Proiecție: LinkedIn + fondator nominal + 1 articol presă → 64–70/100 în 3 luni; 80+ cu prezență activă la 12 luni.
 
 Comparație: Planable.io (SaaS RO cu brand internațional) = 57/100 — brand authority ridicat, GEO tehnic slab.
 
@@ -122,7 +123,7 @@ Q: Ce înseamnă garanția +12 puncte?
 A: Garantăm că scorul GEO compozit crește cu minimum 12 puncte după implementarea recomandărilor. Dacă nu, refacem auditul gratuit (Pachet B).
 
 Q: Cum calculați scorul GEO compozit?
-A: Formula: (Citability × 0.25) + (Brand × 0.20) + (EEAT × 0.20) + (Technical × 0.15) + (Schema × 0.10) + (Platform × 0.10). Scor propriu Nivelul0: 49/100 — transparent, auditabil, demonstrat pe propriul site.
+A: Formula: (Citability × 0.25) + (Brand × 0.20) + (EEAT × 0.20) + (Technical × 0.15) + (Schema × 0.10) + (Platform × 0.10). Scor propriu Nivelul0: 51/100 — transparent, auditabil, demonstrat pe propriul site (re-auditat iulie 2026).
 
 ## Contact
 
