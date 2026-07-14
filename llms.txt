@@ -23,19 +23,21 @@ Scor GEO compozit: 51/100 (Fair — brand nou, GEO tehnic solid)
 Audit inițial: 2026-06-29 (audit riguros cu 5 agenți specializați)
 Re-audit citability: 2026-07-08 (optimizare citability +12 puncte)
 Re-audit complet: 2026-07-13 (optimizare Technical+Schema NIV-38: +2 puncte composite)
-Ultima actualizare: 2026-07-13
+E-E-A-T boost: 2026-07-13 (NIV-40: pagina Metodologie + fix Privacy Policy)
+Re-audit confirmare: 2026-07-14 (NIV-41: Schema 72→75 confirmat, compozit stabil 51/100)
+Ultima actualizare: 2026-07-14
 
-Detaliu pe dimensiuni (iulie 2026, post-NIV-38):
+Detaliu pe dimensiuni (iulie 2026, post-NIV-41):
 - AI Citability: 84/100 (Good) — FAQ structurat, definiții answer-first, pasaje speakable, citații verificabile arXiv + BrightEdge
 - Technical GEO: 83/100 (Good) — 15 crawleri AI expliciti, llms.txt complet, SSR static GitHub Pages, sitemap.xml, OG complet, hreflang ro/en
-- Schema & Structured Data: 72/100 (Fair) — Organization+AggregateRating, FAQPage (9 Q&A), HowTo, TechArticle+citation, ItemList (6 audituri), speakable JSON-LD+HTML
-- Content E-E-A-T: 46/100 (Poor) — fără fondator nominal, fără clienți reali, metodologie transparentă + citații academice
+- Schema & Structured Data: 75/100 (Good) — Organization+AggregateRating, FAQPage (9 Q&A), HowTo, TechArticle+citation, ItemList, speakable JSON-LD+HTML; + TechArticle+HowTo+WebPage pe methodology.html (8 blocuri total)
+- Content E-E-A-T: 46/100 (Poor) — fără fondator nominal, fără clienți reali, metodologie transparentă + citații academice (îmbunătățire reală NIV-40: privacy fix + methodology page)
 - Platform Optimization: 6/100 (Critical) — prezență ZERO pe LinkedIn, YouTube, Reddit, presă
 - Brand Authority: 3/100 (Critical) — brand nou, 0 mențiuni externe verificabile
 
-Formula: (84×0.25) + (3×0.20) + (46×0.20) + (83×0.15) + (72×0.10) + (6×0.10) = 51/100
+Formula: (84×0.25) + (3×0.20) + (46×0.20) + (83×0.15) + (75×0.10) + (6×0.10) = 51/100
 
-Notă de transparență: Scorul compozit de 51/100 reflectă situația reală a unui brand lansat în 2026. Dimensiunile tehnice (Citability 84, Technical 83, Schema 72) depășesc media pentru un brand nou. Gap-ul major la 80+ sunt Brand Authority și Platform, care necesită acțiuni externe: LinkedIn company page + presă + clienți reali.
+Notă de transparență: Scorul compozit de 51/100 reflectă situația reală a unui brand lansat în 2026. Dimensiunile tehnice (Citability 84, Technical 83, Schema 75) depășesc media pentru un brand nou. Gap-ul major la 80+ sunt Brand Authority și Platform, care necesită acțiuni externe: LinkedIn company page + presă + clienți reali.
 
 Proiecție: LinkedIn + fondator nominal + 1 articol presă → 64–70/100 în 3 luni; 80+ cu prezență activă la 12 luni.
 
